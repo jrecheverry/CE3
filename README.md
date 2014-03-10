@@ -7,5 +7,6 @@ computer exercise # 3: State Machine
 ![Moore](https://raw.github.com/jrecheverry/CE3/master/moore_testbench.png)
 
 
+
 #Mealy State Machine
-![Mealy]()
+![Mealy](https://raw.github.com/jrecheverry/CE3/master/Mealy_testbench_Echeverry.png)
